@@ -1,2 +1,0 @@
-# ScoreBoard
-Created with CodeSandbox
